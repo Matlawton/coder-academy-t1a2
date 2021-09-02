@@ -20,6 +20,7 @@ The purpose of this website is to host a work in progress portfolio.
 
 ## :milky_way: Sitemap
 
+![Mark Down Sitemap](docs/gh-sitemap.png "An image of the sitemap")
 ![Mark Down Sitemap](docs/sitemap-md.png "An image of the sitemap in markdown")
 
 /MathewLawton_T1A2
@@ -34,11 +35,11 @@ The purpose of this website is to host a work in progress portfolio.
 |_style.css
 
 
-## Screenshots
+## :camera: Screenshots
 
-Target audience
+## :wave: Target audience
 
-## Tech stack (e.g. html, css, deployment platform, etc)
+## :wrench: Tech stack (e.g. html, css, deployment platform, etc)
 
 Ubuntu WSL
 VS Code
