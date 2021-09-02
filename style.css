@@ -260,6 +260,7 @@ section {
     padding: 20px;
     margin-top: 20px;
     border-radius: 20px;
+
 }
 
 .card-head {
@@ -321,7 +322,7 @@ section {
 }
 
 .contact-image {
-    
+
     transition: 1s;
 }
 
