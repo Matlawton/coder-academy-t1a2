@@ -2,7 +2,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matlawton)](https://github.com/anuraghazra/github-readme-stats)
 
-## :feelsgood: Hey, Thanks for coming. Here's a link (URL) to my published portfolio website
+## :pizza: Hey, Thanks for coming. Here's a link (URL) to my published portfolio website
 
 <https://matlawton.github.io/coder-academy-t1a2/>
 
@@ -10,13 +10,20 @@
 
 <https://github.com/Matlawton/coder-academy-t1a2>
 
-## :octocat: Description of my portfolio website, including
+## :octocat: Description
+
+This is a portfolio project assignment for Coder Academy Term 1.
 
 ## :trollface: Purpose
 
-The purpose of this website is to host a work in progress portfolio.
+The purpose of this website is to host a work in progress portfolio that may have an opportunity to communicate and demonstrate my skills and knowledge base.
 
 ## :poodle: Functionality / features
+
+1. Simple, well defined navigation.
+1. Easy-to-understand web design and clear user experience.
+1. Junior graphic design visuals and descriptions.
+1. Consistent Navigation bar.
 
 ## :milky_way: Sitemap
 
@@ -36,6 +43,12 @@ The purpose of this website is to host a work in progress portfolio.
 
 
 ## :camera: Screenshots
+
+![Mark Down Sitemap](docs/Screenshot-vmob-port.png "An image of the sitemap in markdown")
+![Mark Down Sitemap](docs/Screenshot-v1.png "An image of the sitemap in markdown")
+![Mark Down Sitemap](docs/Screenshot-tab-blog.png "An image of the sitemap in markdown")
+![Mark Down Sitemap](docs/Screenshot-v3.png "An image of the sitemap in markdown")
+![Mark Down Sitemap](docs/Screenshot-v2.png "An image of the sitemap in markdown")
 
 ## :wave: Target audience
 
