@@ -305,7 +305,7 @@ section {
 
 /* Contact page styling */
 .contact-display {
-    display: flexbox;
+    display: flex;
 }
 
 /* This is where I can edit the features for my icons on the contact page */
@@ -321,7 +321,12 @@ section {
 }
 
 .contact-image {
-    float: right;
+    
+    transition: 1s;
+}
+
+.contact-image:hover {
+    transform: scale(110%);
 }
 
 /* Portfolio and Index page links and buttons styling*/
