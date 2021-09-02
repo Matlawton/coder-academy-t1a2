@@ -2,23 +2,23 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matlawton)](https://github.com/anuraghazra/github-readme-stats)
 
-## Hey, Thanks for coming. Here's a link (URL) to my published portfolio website
+## :feelsgood: Hey, Thanks for coming. Here's a link (URL) to my published portfolio website
 
 <https://matlawton.github.io/coder-academy-t1a2/>
 
-## Here's a link to my GitHub repository
+## :hurtrealbad: Here's a link to my GitHub repository
 
 <https://github.com/Matlawton/coder-academy-t1a2>
 
-## Description of my portfolio website, including
+## :octocat: Description of my portfolio website, including
 
 ## :trollface: Purpose
 
 The purpose of this website is to host a work in progress portfolio.
 
-## Functionality / features
+## :poodle: Functionality / features
 
-## Sitemap
+## :milky_way: Sitemap
 
 ![Mark Down Sitemap](docs/sitemap-md.png "An image of the sitemap in markdown")
 
