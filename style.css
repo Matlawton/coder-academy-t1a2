@@ -305,7 +305,7 @@ section {
 
 /* Contact page styling */
 .contact-display {
-    display: inline-flex;
+    display: flexbox;
 }
 
 /* This is where I can edit the features for my icons on the contact page */
