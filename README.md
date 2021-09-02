@@ -2,11 +2,11 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matlawton)](https://github.com/anuraghazra/github-readme-stats)
 
-## A link (URL) to your published portfolio website
+## Hey, Thanks for coming. Here's a link (URL) to my published portfolio website
 
 <https://matlawton.github.io/coder-academy-t1a2/>
 
-## Here is a link to my GitHub repository
+## Here's a link to my GitHub repository
 
 <https://github.com/Matlawton/coder-academy-t1a2>
 
@@ -19,6 +19,18 @@ The purpose of this website is to host a work in progress portfolio.
 ## Functionality / features
 
 ## Sitemap
+
+/MathewLawton_T1A2
+|_/docs
+|_/ppt
+|_about.html
+|_blog.html
+|_contact.html
+|_index.html
+|_portfolio.html
+|_README.md
+|_style.css
+
 
 ## Screenshots
 
