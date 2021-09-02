@@ -1,8 +1,8 @@
-# Welcome to my portfolio
+# :see_no_evil: Welcome to my portfolio
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matlawton)](https://github.com/anuraghazra/github-readme-stats)
-
-:bowtie:
 
 ## Hey, Thanks for coming. Here's a link (URL) to my published portfolio website
 
