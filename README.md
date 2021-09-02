@@ -1,7 +1,5 @@
 # :see_no_evil: Welcome to my portfolio
 
-
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matlawton)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Hey, Thanks for coming. Here's a link (URL) to my published portfolio website
@@ -14,7 +12,7 @@
 
 ## Description of my portfolio website, including
 
-## Purpose
+## :trollface: Purpose
 
 The purpose of this website is to host a work in progress portfolio.
 
