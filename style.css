@@ -302,3 +302,19 @@ body.blog {
   }
 
 
+/* Contact page styling */
+.contact-display {
+    display: inline-flex;
+
+}
+
+.icon {
+    margin: 20px;
+    width: 100px;
+    height: 100px;
+    transition: 1s;
+}
+
+.icon:hover {
+    transform: scale(110%);
+}
