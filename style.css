@@ -281,7 +281,7 @@ section {
   
 /* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 1024px) {
-    .leftcolumn, .rightcolumn, .blog-img, .headshot {
+    .leftcolumn, .rightcolumn, .blog-img, .headshot, .port-card {
     width: 100%;
     padding: 0;
 }
