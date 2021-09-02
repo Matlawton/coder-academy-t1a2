@@ -20,16 +20,16 @@ The purpose of this website is to host a work in progress portfolio.
 
 ## Sitemap
 
-/MathewLawton_T1A2
-|_/docs
-|_/ppt
-|_about.html
-|_blog.html
-|_contact.html
-|_index.html
-|_portfolio.html
-|_README.md
-|_style.css
+1. /MathewLawton_T1A2
+1. |_/docs
+1. |_/ppt
+1. |_about.html
+1. |_blog.html
+1. |_contact.html
+1. |_index.html
+1. |_portfolio.html
+1. |_README.md
+1. |_style.css
 
 
 ## Screenshots
