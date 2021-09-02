@@ -237,7 +237,9 @@ section {
     padding: 20px;
     border-radius: 20px;
 }
-  
+
+
+
 /* Add a card effect for articles on index, blog and portfolio pages */
 .card {
     background-color: white;
@@ -281,14 +283,21 @@ section {
   
 /* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 1024px) {
-    .leftcolumn, .rightcolumn, .blog-img, .headshot, .topnav, .port-card {
+    .leftcolumn, .rightcolumn, .blog-img, .headshot, .topnav {
     width: 100%;
     padding: 0;
 }
 }
 
 @media screen and (max-width: 726px) {
-    .leftcolumn, .rightcolumn, .blog-img, .headshot, .topnav, .port-card {
+    .leftcolumn, .rightcolumn, .blog-img, .headshot, .topnav {
+    width: 100%;
+    padding: 0;
+}
+}
+
+@media screen and (max-width: 350px) {
+    .leftcolumn, .rightcolumn, .blog-img, .headshot, .topnav {
     width: 100%;
     padding: 0;
 }
