@@ -18,7 +18,7 @@ body > * {
 /* Applying flex-wrap to my header */
 header {
     flex-wrap: wrap;
-  }
+}
 
 /* This is my top header image used on every page of the website*/
 img.headshot {

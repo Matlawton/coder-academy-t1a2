@@ -55,6 +55,7 @@ The target audience for this project is potential recruitment officers/agencies 
 1. HTML5.
 1. CSS.
 1. Source control, GIT.
+1. Balsamiq, used for creating wireframes.
 1. GitHub, used to host my remote repository and deploy my project.
 1. Canva, used for graphic design works <https://canva.com>.
 1. HTML Validator <https://validator.w3.org>.
