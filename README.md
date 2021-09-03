@@ -2,30 +2,32 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matlawton)](https://github.com/anuraghazra/github-readme-stats)
 
-## :pizza: Hey, Thanks for coming. Here's a link (URL) to my published portfolio website
+## Hey, Thanks for coming. Here's a link to my published portfolio website
 
 <https://matlawton.github.io/coder-academy-t1a2/>
 
-## :hurtrealbad: Here's a link to my GitHub repository
+## Here's a link to my GitHub repository
 
 <https://github.com/Matlawton/coder-academy-t1a2>
 
-## :octocat: Description
+## Description
 
 This is a portfolio project assignment for Coder Academy Term 1.
+The online portfolio website is split up into five separate HTML pages; The Home page(index.HTML), which links to another page via the nav bar where you can see some information about me(about.html), some of my recent projects(portfolio.html), some of my blog posts on my blog page(blog.html), and finally we have a contact page(contact.html) where you can find links to my Resume, My LinkedIn and my GitHub and you can also use this page to send me an email.
 
-## :trollface: Purpose
+## Purpose
 
-The purpose of this website is to host a work in progress portfolio that may have an opportunity to communicate and demonstrate my skills and knowledge base.
+The purpose of this website is to host a work in progress portfolio that may have an opportunity to communicate and demonstrate my skills and knowledge base to potential employers.
 
-## :poodle: Functionality / features
+## Functionality / features
 
 1. Simple, well defined navigation.
 1. Easy-to-understand web design and clear user experience.
 1. Junior graphic design visuals and descriptions.
 1. Consistent Navigation bar.
+1. Smooth animations with CSS on Hover function.
 
-## :milky_way: Sitemap
+## Sitemap
 
 ![Mark Down Sitemap](docs/gh-sitemap.png "An image of the sitemap")
 ![Mark Down Sitemap](docs/sitemap-md.png "An image of the sitemap in markdown")
@@ -42,25 +44,27 @@ The purpose of this website is to host a work in progress portfolio that may hav
 |_style.css
 
 
-## :camera: Screenshots
+## Screenshots
 
-![Mark Down Sitemap](docs/Screenshot-vmob-port.png "An image of the sitemap in markdown")
-![Mark Down Sitemap](docs/Screenshot-v1.png "An image of the sitemap in markdown")
-![Mark Down Sitemap](docs/Screenshot-tab-blog.png "An image of the sitemap in markdown")
-![Mark Down Sitemap](docs/Screenshot-v3.png "An image of the sitemap in markdown")
-![Mark Down Sitemap](docs/Screenshot-v2.png "An image of the sitemap in markdown")
+![Mark Down Sitemap](docs/Screenshot-vmob-port.png "A screen shot of the mobile portfolio page")
+![Mark Down Sitemap](docs/Screenshot-v1.png "A screen shot of the site")
+![Mark Down Sitemap](docs/Screenshot-tab-blog.png "A screen shot of the site in tablet display")
+![Mark Down Sitemap](docs/Screenshot-v3.png "A screen shot of the site")
+![Mark Down Sitemap](docs/Screenshot-v2.png "A screen shot of the site")
 
-## :wave: Target audience
+## Target audience
 
-## :wrench: Tech stack (e.g. html, css, deployment platform, etc)
+The target audience for this project is a potential recruitment officer/agency or employer looking to engage with a developer and/or an IT professional.
 
-Ubuntu WSL
-VS Code
+## Tech stack (e.g. html, css, deployment platform, etc)
+
+WSL Ubuntu-18.04 LTS
+VS Code, used as my text editor.
 HTML5
-CSS
-GIT
-GitHub
-canva.com
+CSS, used to style my HTML.
+Source control, GIT
+GitHub, used to host my remote repository and deploy my project.
+canva.com, used for graphic design works.
 
 
 
