@@ -1,6 +1,5 @@
 /* The root function justifies global features */
 :root {
-    --gray: lightgray;
     font-family: 'Oswald', sans-serif;
 }
 /* This represents features before or after a component */
@@ -29,10 +28,8 @@ img.headshot {
 
 img.headshot:hover {
     filter: grayscale(100%);
-    transform: scale(105%);
+    transform: scale(1.05);
 }
-
-
 
 /* This is the beginning of my navbar section */
 .topnav {
@@ -199,7 +196,7 @@ section {
     break-inside: avoid;;
 }
 
-/*This is the blog styling which after creation, I used in multiple areas of the website such as index, portfolio and blog*/
+/*This is the blog styling which after creation, I used in multiple pages of the website such as index, portfolio and blog*/
   
 /* Header/Blog Title */
 .header {
@@ -214,8 +211,7 @@ section {
 /* Left column for articles on index, blog and portfolio pages*/
 .leftcolumn {
     float: left;
-    width: 75%;
-    
+    width: 75%;  
 }
   
 /* Right column for articles on index, blog and portfolio pages*/
@@ -238,9 +234,14 @@ section {
     border-radius: 20px;
 }
 
+.cd-bg1 {
+    background-color: #89c5bd;
+    width: 100%;
+    padding: 20px;
+    border-radius: 20px;
+}
 
-
-/* Add a card effect for articles on index, blog and portfolio pages */
+/* This is where I add a card effect for articles on index, blog and portfolio pages */
 .card {
     background-color: white;
     padding: 20px;
@@ -260,7 +261,6 @@ section {
     padding: 20px;
     margin-top: 20px;
     border-radius: 20px;
-
 }
 
 .card-head {
@@ -273,15 +273,7 @@ section {
     display: table;
     clear: both;
 }
-  
-/* Footer */
-.footer {
-    padding: 20px;
-    text-align: center;
-    background: #fed480;
-    margin-top: 20px;
-}
-  
+    
 /* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 1024px) {
     .leftcolumn, .rightcolumn, .blog-img, .headshot, .topnav, .contact-display, .contact-image {
@@ -318,16 +310,15 @@ section {
 }
 
 .icon:hover {
-    transform: scale(110%);
+    transform: scale(1.05);
 }
 
 .contact-image {
-
     transition: 1s;
 }
 
 .contact-image:hover {
-    transform: scale(110%);
+    transform: scale(1.05);
 }
 
 /* Portfolio and Index page links and buttons styling*/
@@ -344,6 +335,7 @@ section {
     border-radius: 10px;
 }
 
+/* Home Page Button styling */
 .link-type2 {
     font: bold 14px 'Oswald Sans', sans-serif;
     text-decoration: none;
@@ -355,4 +347,12 @@ section {
     border-bottom: 2px solid #333333;
     border-left: 1px solid #CCCCCC;
     border-radius: 10px;
+}
+
+/* Footer */
+.footer {
+    padding: 20px;
+    text-align: center;
+    background: #fed480;
+    margin-top: 20px;
 }
