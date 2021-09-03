@@ -2,7 +2,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matlawton)](https://github.com/anuraghazra/github-readme-stats)
 
-## Hey, Thanks for coming. Have some :pizza: while you're here
+## Hey, thanks for coming. Have some :pizza: while you're here
 
 Click here to view my published portfolio website - <https://matlawton.github.io/coder-academy-t1a2/>
 
@@ -12,7 +12,7 @@ Click here to view my GitHub Repository - <https://github.com/Matlawton/coder-ac
 
 ## Description
 
-This is a portfolio project assignment for Coder Academy Term 1.
+This is a portfolio project assignment for Coder Academy, Term 1 - Assignment 2.
 The online portfolio website is split up into five separate HTML pages; The Home page (index.HTML), which links to another page via the nav bar where you can see some information about me (about.html), some of my recent projects (portfolio.html), some of my blog posts on my blog page (blog.html), and finally we have a contact page (contact.html) where you can find links to my Resume, My LinkedIn and my GitHub and you can also use this page to send me an email.
 
 ## Purpose
@@ -49,10 +49,10 @@ The target audience for this project is a potential recruitment officer/agency o
 
 ## Tech Stack
 
-WSL Ubuntu-18.04 LTS
-VS Code, used as my text editor.
-HTML5
-CSS, used to style my HTML.
-Source control, GIT
-GitHub, used to host my remote repository and deploy my project.
-canva.com, used for graphic design works.
+1. WSL Ubuntu-18.04 LTS.
+1. VS Code, used as my text editor.
+1. HTML5.
+1. CSS, used to style my HTML.
+1. Source control, GIT.
+1. GitHub, used to host my remote repository and deploy my project.
+1. Canva.com, used for graphic design works.
