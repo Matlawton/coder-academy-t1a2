@@ -53,7 +53,7 @@ The target audience for this project is potential recruitment officers/agencies 
 1. WSL Ubuntu-18.04 LTS.
 1. VS Code, used as my text editor.
 1. HTML5.
-1. CSS, used to style my HTML.
+1. CSS.
 1. Source control, GIT.
 1. GitHub, used to host my remote repository and deploy my project.
 1. Canva, used for graphic design works <https://canva.com>.
