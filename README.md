@@ -12,12 +12,13 @@ Click here to view my GitHub Repository - <https://github.com/Matlawton/coder-ac
 
 ## Description
 
-This is a portfolio project assignment for Coder Academy, Term 1 - Assignment 2.
-The online portfolio website is split up into five separate HTML pages; The Home page (index.HTML), which links to another page via the nav bar where you can see some information about me (about.html), some of my recent projects (portfolio.html), some of my blog posts on my blog page (blog.html), and finally we have a contact page (contact.html) where you can find links to my Resume, My LinkedIn and my GitHub and you can also use this page to send me an email.
+This is a portfolio project assignment for Coder Academy, Term 1 - Assignment 2 - INT1012 - Introduction to Web.
+
+The online portfolio website is split up into five separate HTML pages; The Home page (index.HTML), which links to another page via the nav bar where you can see some information about me (about.html), some of my recent projects (portfolio.html), some of my blog posts on my blog page (blog.html), and finally we have a contact page (contact.html) where you can find links to my Resume, my LinkedIn, my GitHub and you can also use this page to send me an email.
 
 ## Purpose
 
-The purpose of this website is to host a work in progress portfolio that may have an opportunity to communicate and demonstrate my skills and knowledge base to potential employers.
+The purpose of this website is to provide a work in progress portfolio that provides information about me, my skills, my interests, my professional knowledge, to showcase some of my work and have an opportunity to communicate and demonstrate these to potential employers.
 
 ## Functionality & Features
 
@@ -31,7 +32,7 @@ The purpose of this website is to host a work in progress portfolio that may hav
 
 ![Mark Down Sitemap](docs/gh-sitemap.png "An image of the sitemap")
 
-## File tree for GitHub Repository
+## File tree for GitHub repository
 
 ![Mark Down Sitemap](docs/sitemap-md.png "An image of the GitHub repo sitemap in markdown")
 
@@ -45,7 +46,7 @@ The purpose of this website is to host a work in progress portfolio that may hav
 
 ## Target Audience
 
-The target audience for this project is a potential recruitment officer/agency or employer looking to engage with a developer and/or an IT professional.
+The target audience for this project is potential recruitment officers/agencies or employers looking to engage with a developer and/or an IT professional. The target audience may have general knowledge relating to information technology, software development/coding, programming languages and development stacks.
 
 ## Tech Stack
 
@@ -55,4 +56,6 @@ The target audience for this project is a potential recruitment officer/agency o
 1. CSS, used to style my HTML.
 1. Source control, GIT.
 1. GitHub, used to host my remote repository and deploy my project.
-1. Canva.com, used for graphic design works.
+1. Canva, used for graphic design works <https://canva.com>.
+1. HTML Validator <https://validator.w3.org>.
+1. CSS Validator <https://jigsaw.w3.org/css-validator/validator>.
