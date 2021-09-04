@@ -14,7 +14,7 @@ Click here to view my GitHub Repository - <https://github.com/Matlawton/coder-ac
 
 This is a portfolio project assignment for Coder Academy, Term 1 - Assignment 2 - INT1012 - Introduction to Web.
 
-The online portfolio website is split up into five separate HTML pages; The Home page (index.HTML), which links to another page via the nav bar where you can see some information about me (about.html), some of my recent projects (portfolio.html), some of my blog posts on my blog page (blog.html), and finally we have a contact page (contact.html) where you can find links to my Resume, my LinkedIn, my GitHub and you can also use this page to send me an email.
+The online portfolio website is split up into five separate HTML pages; The Home page (index.html), which links to another page via the nav bar where you can see some information about me (about.html), some of my recent projects (portfolio.html), some of my blog posts on my blog page (blog.html), and finally we have a contact page (contact.html) where you can find links to my Resume, my LinkedIn, my GitHub and you can also use this page to send me an email.
 
 ## Purpose
 
